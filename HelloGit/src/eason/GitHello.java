@@ -1,4 +1,4 @@
-package eason.seu.edu;
+package eason;
 
 public class GitHello {
 	
